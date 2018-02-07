@@ -10,3 +10,5 @@
 1. 虚拟定位界面提示
 2. 默认中文简体语言
 3. 其他内容优化
+
+本项目已编译，[点击下载Apk](https://github.com/bzsome/VirtualApp-x326/raw/master/release.apk)
